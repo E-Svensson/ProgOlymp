@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\ProgOlymp1\bin\Debug\net7.0\ProgOlymp1.exe
+C:\Users\Admin\Documents\ProgOlymp1\bin\Debug\net7.0\ProgOlymp1.deps.json
+C:\Users\Admin\Documents\ProgOlymp1\bin\Debug\net7.0\ProgOlymp1.runtimeconfig.json
+C:\Users\Admin\Documents\ProgOlymp1\bin\Debug\net7.0\ProgOlymp1.dll
+C:\Users\Admin\Documents\ProgOlymp1\bin\Debug\net7.0\ProgOlymp1.pdb
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\ProgOlymp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\ProgOlymp1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\ProgOlymp1.AssemblyInfo.cs
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\ProgOlymp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\ProgOlymp1.dll
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\refint\ProgOlymp1.dll
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\ProgOlymp1.pdb
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\ProgOlymp1.genruntimeconfig.cache
+C:\Users\Admin\Documents\ProgOlymp1\obj\Debug\net7.0\ref\ProgOlymp1.dll

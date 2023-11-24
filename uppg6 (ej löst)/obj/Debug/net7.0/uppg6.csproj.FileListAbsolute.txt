@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\uppg6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\uppg6.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\uppg6.AssemblyInfo.cs
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\uppg6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\bin\Debug\net7.0\uppg6.exe
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\bin\Debug\net7.0\uppg6.deps.json
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\bin\Debug\net7.0\uppg6.runtimeconfig.json
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\bin\Debug\net7.0\uppg6.dll
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\bin\Debug\net7.0\uppg6.pdb
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\uppg6.dll
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\refint\uppg6.dll
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\uppg6.pdb
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\uppg6.genruntimeconfig.cache
+C:\Users\Admin\Documents\ProgOlymp1\uppg6\obj\Debug\net7.0\ref\uppg6.dll
